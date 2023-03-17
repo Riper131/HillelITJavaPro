@@ -1,0 +1,4 @@
+# Ignore IntelliJ Idea files
+.idea
+# Ignore Git files
+.Git
